@@ -31,7 +31,7 @@ The dataset includes:
 ## 🧩 Data Model
 The data model follows a star schema with a central sales fact table connected to dimension tables such as customers, products, and customer feedback.
 
-![Data Model](images/data_model.png)
+![Data Model](Analyze_customer_behavior&sales_performance/images/data_model.png)
 
 
 ## 📊 Dashboard Features
