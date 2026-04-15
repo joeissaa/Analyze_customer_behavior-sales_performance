@@ -43,7 +43,7 @@ The data model follows a star schema with a central sales fact table connected t
 
 
 ## 🖼️ Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/Sales.png)
 
 
 ## 🧠 Key Insights
